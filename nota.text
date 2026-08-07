@@ -1,5 +1,6 @@
-ReactJS
+
 biblioteca javascript, front end
 controe interfaces graficas visuais
 "explica" como se da a exibicao visual de partes mais complexas()
 npm create vite@latest meu-vue-app -- --template vue
+ajustar pastas 
